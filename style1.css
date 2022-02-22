@@ -1,0 +1,15 @@
+.nikhil {
+  background-color: bisque;
+  border-spacing: 25px;
+  text-align: center;
+}
+.h1 {
+  font-size: 100px;
+  text-align: center;
+  text-decoration: dashed;
+}
+
+.body {
+  background-color: aquamarine;
+  padding-bottom: 0%;
+}
