@@ -1,4 +1,4 @@
-//alert("working successfully");
+
 var randomnumber1 = Math.floor(Math.random() * 6) + 1;
 var random_dice_image1 = "dice" + randomnumber1 + ".png";
 var random_image_source1 = "images/" + random_dice_image1;
